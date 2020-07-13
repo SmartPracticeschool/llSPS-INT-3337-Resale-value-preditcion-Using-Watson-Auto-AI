@@ -1,4 +1,4 @@
-# llSPS-INT-3337-Resale-value-preditcion-Using-Watson-Auto-AI
+# Resale value Preditcion 
 Resale value preditcion Using Watson Auto AI
 With difficult economic conditions, it is likely that sales of second-hand imported
 (reconditioned) cars and used cars will increase. In many developed countries, it is common to
